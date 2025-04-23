@@ -1,9 +1,3 @@
----
-noteId: "56f38cc0205b11f08c7a15e391dbe89f"
-tags: []
-
----
-
 [Jump to content](https://en.wikipedia.org/wiki/Python_\(programming_language\)#bodyContent)
 Main menu
 Main menu

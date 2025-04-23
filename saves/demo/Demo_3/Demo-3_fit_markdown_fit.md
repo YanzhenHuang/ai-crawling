@@ -1,9 +1,3 @@
----
-noteId: "56f2c970205b11f08c7a15e391dbe89f"
-tags: []
-
----
-
 [Jump to content](https://en.wikipedia.org/wiki/Python_\(programming_language\)#bodyContent)
 From Wikipedia, the free encyclopedia
 General-purpose programming language
